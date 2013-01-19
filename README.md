@@ -1,4 +1,3 @@
-
 ouya-minibundle 
 ========== 
  
@@ -18,6 +17,6 @@ Rules:
 ------ 
 1. Games must be enclosed in their own folder. 
 2. Games must be in Java. (No Unity/Air/etc.) 
-3. Games must be open source (License is your choice 
+3. Games must be open source (License is your choice, but be OSS)
  
 Happy Game Dev!
