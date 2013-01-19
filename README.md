@@ -8,7 +8,7 @@ introduce gamers to the console. The source code will be released so new develop
  
 The games should have an emphasis on the OUYA's unique features, if possible. 
  
-The project is led by me (JamesS237) and Josh Siegl (sodafountan). 
+The project is led by James Spencer (JamesS237) and Josh Siegl (sodafountan). 
  
 To contribute a game, you must first alert us on this [Ouya Dev Forum Thread](http://forums.ouya.tv/discussion/432/lets-do-a-bundle). 
 And then send a pull request. 
